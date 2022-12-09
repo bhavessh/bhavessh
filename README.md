@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavessh
 - 👀 I’m interested in Full Stack Development , AI, Cloud Computing and Machine Learning and in data science
-- 🌱 I’m currently learning Python and Java and i am doinf UI/UX
+- 🌱 I’m currently learning Python and Java and i am doing UI/UX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just drop me mail or message
 
