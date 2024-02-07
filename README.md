@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @bhavessh
-- 👀 I’m interested in Full Stack Development , AI, Cloud Computing and Machine Learning and in data science
-- 🌱 I’m currently learning Python and Java and C language and i am doing UI/UX
-- 💞️ I’m looking to collaborate on figma. So i can get good partner who can tell me that is it looking nice or i need to improve it ...
+- 👀 I’m a Full Stack Developer. With a good knowledge of AI, Cloud Computing and Machine Learning and in data science
+- 🌱 I has learned Python and C++ and C language and I’m currently learning Java 
+-     i am doing UI/UX
+- 💞️ I’m looking to collaborate some one who can help me in my projects
 - 📫 How to reach me just drop me mail or message
 
 <!---
