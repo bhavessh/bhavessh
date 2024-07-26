@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bhavessh
-- 👀 I’m a Full Stack Developer. With a good knowledge of AI, Cloud Computing and Machine Learning and in data science
-- 🌱 I has learned Python and C++ and C language and I’m currently learning Java 
+- 👀 I’m a Full Stack Developer. With a good knowledge of AI, Cloud Computing 
+- 🌱 I has learned Python, C++ , C , java language and my practice language is Java
+- 🌱 I am currently learning Machine Learning and data science in AI Computational 
 - 💞️ I’m looking to collaborate some one who can help me in my projects
 - 📫 How to reach me just drop me mail or message
 - i am doing UI/UX
